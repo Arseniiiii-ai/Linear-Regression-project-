@@ -23,29 +23,22 @@ df = pd.read_csv("Ecommerce Customers")
 df.head()
 ```
 
-Project Structure
--|  03-Linear Regression Project.ipynb
--|  Ecommerce Customers
--|  README.md
+## 📁 Project Structure
 
-<hr>
-
-<h1 align="center">
-  <span style="color:#0A66C2;">Arsen</span>
-</h1>
-
-<p align="center">
-  <em>Statistics & Data Science Student</em><br>
-  <em>Linear Regression • Statistical Modeling • Python</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<hr>
+```text
+linear-regression-project/
+│
+├── data/
+│   └── Ecommerce Customers.csv
+│
+├── notebooks/
+│   └── 03-Linear Regression Project.ipynb
+│
+├── README.md
+└── requirements.txt
+```
+Author: 
+Arsen  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
 
 
 
