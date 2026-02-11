@@ -28,10 +28,24 @@ Project Structure
 -|  Ecommerce Customers
 -|  README.md
 
-Author: 
+<hr>
+
+<h1 align="center">
+  <span style="color:#0A66C2;">Arsen</span>
+</h1>
+
 <p align="center">
-  <span style="color:#0A66C2; font-size:22px;">Arsen</span>
+  <em>Statistics & Data Science Student</em><br>
+  <em>Linear Regression • Statistical Modeling • Python</em>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
 
 
 
