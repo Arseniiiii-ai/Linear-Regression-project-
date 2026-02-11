@@ -29,14 +29,8 @@ Project Structure
 -|  README.md
 
 Author: 
-<h2 align="center">
-  <span style="color:#0A66C2;">Arsen</span>
-</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <span style="color:#0A66C2; font-size:22px;">Arsen</span>
 </p>
 
 
