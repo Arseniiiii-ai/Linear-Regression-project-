@@ -39,22 +39,18 @@ linear-regression-project/
 ```
 <hr>
 
-<p align="center">
-  <span style="font-size:22px; font-weight:bold; color:#0A66C2;">
-    Arsen
-  </span>
-</p>
+<h2 align="center" style="font-weight:800; letter-spacing:1px;">
+  <span style="color:#0A66C2;">Arsen</span>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-444?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <hr>
+
 
 
 
