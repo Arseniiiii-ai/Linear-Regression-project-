@@ -24,14 +24,21 @@ df.head()
 ```
 
 Project Structure
-├── 03-Linear Regression Project.ipynb
-├── Ecommerce Customers
-├── README.md
+-|  03-Linear Regression Project.ipynb
+-|  Ecommerce Customers
+-|  README.md
 
-03-Linear Regression Project.ipynb — main analysis notebook
+Author: 
+<h2 align="center">
+  <span style="color:#0A66C2;">Arsen</span>
+</h2>
 
-Ecommerce Customers — dataset used in the project
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-README.md — project documentation
+
 
 
