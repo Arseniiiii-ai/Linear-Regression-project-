@@ -37,8 +37,24 @@ linear-regression-project/
 ├── README.md
 └── requirements.txt
 ```
-Author: 
-Arsen                                                                                                                                                                                                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
+<hr>
+
+<p align="center">
+  <span style="font-size:22px; font-weight:bold; color:#0A66C2;">
+    Arsen
+  </span>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-444?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/">
+    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge"/>
+  </a>
+</p>
+
+<hr>
 
 
 
