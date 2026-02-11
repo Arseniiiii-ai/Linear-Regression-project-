@@ -38,7 +38,7 @@ linear-regression-project/
 └── requirements.txt
 ```
 Author: 
-Arsen  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
+Arsen                                                                                                                                                                                                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
 
 
 
