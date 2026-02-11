@@ -116,4 +116,4 @@ Correct evaluation of model assumptions
 
 Author
 
-Arsen [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsen-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
+Arsen [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsen-baqtygaliev-53474631a/)
